@@ -115,6 +115,6 @@ class MetaCorgiSnacks
 
 
   def self.define_snack(name)
-    
+    # start here
   end
 end
